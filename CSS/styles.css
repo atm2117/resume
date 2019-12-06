@@ -1,0 +1,38 @@
+body{
+  background: rgb(97, 96, 94);
+}
+header{
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+#body{
+  background: white;
+  border:1px solid black;
+  padding:5px;
+  margin:3%;
+}
+
+#arnold{
+  border-radius:50%;
+}
+#main{
+  flex:4;
+  background:rgb(235, 233, 230);
+}
+#side{
+  flex:1;
+  text-align: center;
+}
+#languages{
+  text-align:center;
+  padding-bottom: 3px;
+}
+.full{
+  display:flex;
+}
+.languages-image{
+  border-radius: 10%;
+  width:10%;
+  padding-top:3%;
+}
